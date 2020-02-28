@@ -46,4 +46,4 @@ ffmpeg -i all.ts -acodec copy -vcodec copy final.mp4
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the GPLv3.0 License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE) file for details.
